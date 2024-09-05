@@ -1,6 +1,5 @@
 <h1>SETUP<h1>
-<b>Notes!<b>
-TOKEN_SECRET can get from that for generating random string 32 char
+Notes! TOKEN_SECRET can get from that for generating random string 32 char
     
 ```yaml
 openssl rand -base64 32
