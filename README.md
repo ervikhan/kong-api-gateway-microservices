@@ -1,5 +1,5 @@
 <h1>SETUP<h1>
-<b>Notes!</b>
+<b>Notes!<b>
 TOKEN_SECRET can get from that for generating random string 32 char
     
 ```yaml
